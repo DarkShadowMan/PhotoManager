@@ -36,7 +36,7 @@ public class PhotoGrid extends Fragment {
 			Bundle savedInstanceState) {
 
 		
-		View view = inflater.inflate(R.layout.gridview_fragment, container,
+		View view = inflater.inflate(R.layout.thumbnail_gridview_fragment, container,
 				false);
 		gridview1 = (GridView) view.findViewById(R.id.grid_view);
 		return view;

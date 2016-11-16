@@ -6,14 +6,12 @@ import com.example.imageloadertest.PhotoGrid.OnPhotoClickListener;
 import com.example.imageloadertest.PhotoList.OnPageLodingClickListener;
 import com.example.imageloadertest.photoInfo.PhotoInfo;
 
-import android.R.integer;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 import android.view.KeyEvent;
-import android.view.View;
 import android.widget.RelativeLayout;
 
 public class MainActivity extends FragmentActivity implements OnPageLodingClickListener,OnPhotoClickListener{

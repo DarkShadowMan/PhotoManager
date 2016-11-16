@@ -6,8 +6,6 @@
     android:gravity="center"
     android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
 
-  
-
         <ImageView
             android:id="@+id/iv_show"
             android:layout_width="match_parent"
@@ -20,5 +18,4 @@
             android:contentDescription="@null"
             android:scaleType="fitCenter" />
   
-
 </RelativeLayout>

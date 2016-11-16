@@ -57,7 +57,7 @@ public class PhotoList extends Fragment {
 			Bundle savedInstanceState) {
 		/*View view = inflater.inflate(R.layout.listview_fragment, container,
 				false);*/
-		View view = inflater.inflate(R.layout.girdview_fragment,container,false);
+		View view = inflater.inflate(R.layout.album_grid_fragment,container,false);
 
 
 		//listview1 = (ListView) view.findViewById(R.id.listview1);
