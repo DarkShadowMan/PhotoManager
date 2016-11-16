@@ -23,6 +23,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
+import android.widget.GridView;
 
 import com.example.imageloadertest.adapter.PhotoListAdapter;
 import com.example.imageloadertest.photoInfo.AlbumInfo;
@@ -41,7 +42,8 @@ public class PhotoList extends Fragment {
 	
 	PhotoGrid photoGrid;
 	PhotoList photoList;
-	ListView listview1;
+	//ListView listview1;
+	GridView gridView;
 	ContentResolver cr;
 	static List<AlbumInfo> listImageInfo = new ArrayList<AlbumInfo>();
 	PhotoListAdapter listAdapter;
@@ -53,11 +55,13 @@ public class PhotoList extends Fragment {
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
-		View view = inflater.inflate(R.layout.listview_fragment, container,
-				false);
+		/*View view = inflater.inflate(R.layout.listview_fragment, container,
+				false);*/
+		View view = inflater.inflate(R.layout.girdview_fragment,container,false);
 
-		listview1 = (ListView) view.findViewById(R.id.listview1);
 
+		//listview1 = (ListView) view.findViewById(R.id.listview1);
+		gridView = (GridView)view.findViewById(R.id.main_grid);
 		
 		
 		manager=getFragmentManager();
@@ -89,7 +93,7 @@ public class PhotoList extends Fragment {
 		super.onActivityCreated(savedInstanceState);
 		Log.d("logd", "onActivityCreated");
 
-		listview1.setOnItemClickListener(new OnItemClickListener() {
+		gridView.setOnItemClickListener(new OnItemClickListener() {
 
 			@Override
 			public void onItemClick(AdapterView<?> parent, View view,
@@ -212,7 +216,7 @@ public class PhotoList extends Fragment {
 
 				listAdapter = new PhotoListAdapter(getActivity(),
 						listImageInfo, options);
-				listview1.setAdapter(listAdapter);
+				gridView.setAdapter(listAdapter);
 
 			}
 

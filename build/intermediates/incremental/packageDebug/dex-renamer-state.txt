@@ -1,0 +1,7 @@
+#Wed Nov 09 22:15:10 CST 2016
+base.0=C\:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_58463067a0f1666fe69639e6c91f6a4ccbf67859
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c5c5004df58246f2d8910101ac253d8d71472383\\classes.dex
+base.1=C\:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c5c5004df58246f2d8910101ac253d8d71472383
+file.0=C\:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_58463067a0f1666fe69639e6c91f6a4ccbf67859\\classes.dex

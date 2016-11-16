@@ -3,18 +3,18 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.12.+'
+        classpath 'com.android.tools.build:gradle:2.2.2'
     }
 }
 apply plugin: 'com.android.application'
 
 dependencies {
-    compile fileTree(dir: 'libs', include: '*.jar')
+    compile fileTree(include: '*.jar', dir: 'libs')
 }
 
 android {
     compileSdkVersion 21
-    buildToolsVersion "25.0.0"
+    buildToolsVersion '24.0.0'
 
     sourceSets {
         main {

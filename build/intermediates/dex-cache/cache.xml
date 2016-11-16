@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Documents\ImageLoaderTest\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8eaf96ae54fa4276d24797c4cb5055360c54b698">
+        <dex dex="C:\Users\lwh\Documents\ImageLoaderTest\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_58463067a0f1666fe69639e6c91f6a4ccbf67859\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Documents\ImageLoaderTest\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="C:\Users\lwh\Documents\ImageLoaderTest\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_02f88d35b7162651bf2c8db0bf54ea452ffda354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Documents\ImageLoaderTest\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4e60cc95375d744a5bf2ab28fefa6724b99714a6">
+        <dex dex="C:\Users\lwh\Documents\ImageLoaderTest\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c5c5004df58246f2d8910101ac253d8d71472383\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Documents\ImageLoaderTest\libs\universalimageloaderlibrary1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d01b196564aa567f2381e4e7980d54ea8df21fdd">
+        <dex dex="C:\Users\lwh\Documents\ImageLoaderTest\build\intermediates\transforms\dex\debug\folders\1000\2\universalimageloaderlibrary1.9.0_52c018f9e8bee7c3615016dde5c3c54fb2d5eff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lwh\Documents\ImageLoaderTest\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="C:\Users\lwh\Documents\ImageLoaderTest\build\intermediates\pre-dexed\release\android-support-v4_02f88d35b7162651bf2c8db0bf54ea452ffda354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lwh\Documents\ImageLoaderTest\libs\universalimageloaderlibrary1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d01b196564aa567f2381e4e7980d54ea8df21fdd">
+        <dex dex="C:\Users\lwh\Documents\ImageLoaderTest\build\intermediates\pre-dexed\release\universalimageloaderlibrary1.9.0_52c018f9e8bee7c3615016dde5c3c54fb2d5eff5.jar" />
+    </item>
+
+</items>

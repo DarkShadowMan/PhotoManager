@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\my_view_pager.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\my_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\imgmatrix.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\imgmatrix.xml"
+    },
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\gridview_item.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\list_view_item.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\list_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\listview_item.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\girdview_fragment.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\girdview_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\gridview_fragment.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\gridview_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\build\\intermediates\\res\\merged\\release\\layout\\listview_fragment.xml",
+        "source": "C:\\Users\\lwh\\Documents\\ImageLoaderTest\\res\\layout\\listview_fragment.xml"
+    }
+]
