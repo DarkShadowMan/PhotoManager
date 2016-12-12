@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+
+    <TextView
+    android:textColor="#fff"
+    android:textSize="20dp"
+    android:layout_height="wrap_content"
+    android:id="@+id/textView1"
+    android:text="From:"
+    android:layout_width="wrap_content"
+    android:layout_gravity="left"
+    android:paddingTop="5dp"
+    android:paddingBottom="25dp">
+</TextView>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linearLayout1">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/txtDateFrom"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:clickable="false"
+        android:enabled="false">
+    </EditText>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:id="@+id/btnCalendarFrom"
+        android:text="Calendar"
+        android:layout_width="100dp">
+    </Button>
+
+</LinearLayout>
+
+<TextView
+    android:textColor="#fff"
+    android:textSize="20dp"
+    android:layout_height="wrap_content"
+    android:id="@+id/textView2"
+    android:text="To:"
+    android:layout_width="wrap_content"
+    android:layout_gravity="left"
+    android:paddingTop="5dp"
+    android:paddingBottom="25dp">
+</TextView>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linearLayout2">
+    <EditText android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_weight="1"
+        android:id="@+id/txtDateTo"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:clickable="false"
+        android:enabled="false">
+    </EditText>
+    <Button android:layout_height="wrap_content"
+        android:layout_weight="0" android:id="@+id/btnCalendarTo" android:text="Calendar"
+        android:layout_width="100dp"></Button>
+</LinearLayout>
+<Button android:layout_height="wrap_content"
+    android:layout_weight="0" android:id="@+id/btnGetList"
+    android:text="Get Images" android:layout_width="100dp"></Button>
+
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+</LinearLayout>

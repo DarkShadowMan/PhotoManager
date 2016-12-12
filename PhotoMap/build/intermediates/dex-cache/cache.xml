@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.0_5088704ca073b900fdee31d8e0b08154472c7565\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.0_2f1f2da567d38adacad0238e391309a4f13ed32d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f5455afc75a423bffec0d0257c5a2a1ed2d3ef97">
+        <dex dex="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f445b29a18e307686c1922b60dfd95a829005775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-6.5.87_d2a1bec6b69d4473591c015d423494e705a29e91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.0_e8ac25ce4a3f178e32f5598141d3bc5071038d11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_33bc6b14ec83bc6e2b14e903bab409e5cab6dd0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="88cf9ecad5e1ec920cc9fa020c895608342309e4">
+        <dex dex="C:\Users\lwh\Desktop\PhotoMap\PhotoManagers\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_321247ba9ebced04a5fee9f499dedc15c7f6da7e\classes.dex" />
+    </item>
+
+</items>

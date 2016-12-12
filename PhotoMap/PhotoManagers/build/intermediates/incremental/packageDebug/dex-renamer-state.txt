@@ -1,0 +1,7 @@
+#Mon Dec 12 09:54:14 CST 2016
+base.0=C\:\\Users\\lwh\\Desktop\\PhotoMap\\PhotoManagers\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_321247ba9ebced04a5fee9f499dedc15c7f6da7e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\lwh\\Desktop\\PhotoMap\\PhotoManagers\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f445b29a18e307686c1922b60dfd95a829005775\\classes.dex
+base.1=C\:\\Users\\lwh\\Desktop\\PhotoMap\\PhotoManagers\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f445b29a18e307686c1922b60dfd95a829005775
+file.0=C\:\\Users\\lwh\\Desktop\\PhotoMap\\PhotoManagers\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_321247ba9ebced04a5fee9f499dedc15c7f6da7e\\classes.dex
